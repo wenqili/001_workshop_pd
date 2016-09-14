@@ -13,7 +13,13 @@ we did and overview on puredata, max msp and chuck
 
 *[chuck](http://chuck.cs.princeton.edu/)
 
+*[supercollider](http://supercollider.github.io/)
+
+*[miller puckette](http://msp.ucsd.edu/)
+
 *[ge wang](https://ccrma.stanford.edu/~ge/)
+
+*[ircam](http://www.ircam.fr/)
 
 *[princeton laptop orchestra] (http://plork.princeton.edu/index.php)
 
