@@ -1,7 +1,11 @@
 # 001_workshop_pd
-notes about session 001 on 2016 09 13
 
-links:
+2016 09 13
+
+first workshop of 2016 fall semester
+we did and overview on puredata, max msp and chuck
+
+## links:
 
 *[max msp](https://cycling74.com/)
 
