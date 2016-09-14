@@ -23,7 +23,7 @@ links:
 
 *[electronic music and sound design book](https://www.amazon.com/Electronic-Music-Sound-Design-Practice/dp/8899212023/ref=sr_1_1?s=books&ie=UTF8&qid=1473866224&sr=1-1&keywords=Electronic+Music+and+Sound+Design)
 
-* [markdown language tips](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
+*[markdown language tips](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
 
 *[critter & guitari](https://www.critterandguitari.com/)
 
